@@ -40,7 +40,7 @@ To validate and refine this model, we performed **System Identification (SysID)*
 - Using MATLAB’s **System Identification Toolbox**, a 2P2Z transfer function model was estimated.
 
 <div align="center">
-  <img src="3c6845d1-5424-412d-bcdc-4b7ba4931a71.png" alt="Open-loop response" width="600">
+  <img src="plant.png" alt="Open-loop response" width="600">
   <p><em>Figure 2. Open-loop response of the ball during identification experiment.</em></p>
 </div>
 
