@@ -1,6 +1,6 @@
 # Ball and Hoop Position Control System
 
-This repository documents our **EE407 Process Control** project, where we implemented and experimentally analyzed a classic **Ball and Hoop position control system**. The setup was originally designed as a laboratory experiment to study nonlinear dynamics, system identification, and controller tuning, but our implementation extended it into a complete closed-loop project integrating software, hardware, and experimental analysis.
+This repository documents our **EE407 Process Control** project, where we implemented and experimentally analyzed a classic **Ball and Hoop position control system**. The project was originally conducted as a term project for EE407. However, instead of preparing a conventional project report, we were asked to design and document it in the form of a laboratory experiment. Therefore, the final report and setup were structured as an experimental framework, while still reflecting the full scope of the original project’s modeling, implementation, and control design work.
 
 ---
 
