@@ -95,17 +95,6 @@ The PID configuration achieved the most stable and accurate performance, closely
 
 ---
 
-## 📁 Repository Structure
-```
-├── /code_arduino/         # PID controller firmware
-├── /code_python/          # Vision tracking & data logging
-├── /data/                 # .mat files of experimental data
-├── /figures/              # Experimental plots & diagrams
-└── README.md              # This file
-```
-
----
-
 ## 📚 References
 - E. Fabregas et al., “Virtual and remote experimentation with the Ball and Hoop system,” *IEEE Conf. ETFA*, 2009.
 - M. Gurtner, J. Zemánek, “Ball in Double Hoop: Demonstration Model for Numerical Optimal Control,” *arXiv:1706.07333*, 2017.
