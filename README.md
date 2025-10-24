@@ -4,6 +4,14 @@ This repository documents our **EE407 Process Control** project, where we implem
 
 ---
 
+## 📄 Full Experiment Report
+For detailed derivations, raw data, and full experimental procedure documentation,  
+you can download the original EE407 laboratory report here:
+
+👉 [Download the full Ball and Hoop Experiment Report (PDF)](Ball_and_Hoop.pdf)
+
+---
+
 ## 🧠 Project Overview
 The **Ball and Hoop system** models the behavior of a ball rolling on the inner surface of a rotating hoop, similar to liquid sloshing in a moving container. Our objective was to model the nonlinear dynamics, identify the linearized system experimentally, and design controllers (P, PI, PD, PID) to stabilize the ball at any desired position.
 
